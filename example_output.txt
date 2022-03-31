@@ -1,0 +1,1 @@
+{"start_index":[0,25,25,196],"end_index":[20,50,36,217],"text":["Mr. and Mrs. Dursley","number four, Privet Drive","number four","strange or mysterious"],"tag":["CHARACTERS","STREET ADDRESS","HOUSE NUMBER","FORESHADOWING"]}
