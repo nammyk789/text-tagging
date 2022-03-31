@@ -26,7 +26,7 @@ function getSelectedText() {
         document.selection.createRange().text;
     } else return;
     // To write the selected text into the textarea
-    document.testform.selectedtext.value = selectedText;
+    //document.testform.selectedtext.value = selectedText;
     return selectedText;
 }
 
